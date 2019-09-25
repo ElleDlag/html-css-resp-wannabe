@@ -72,7 +72,6 @@ img{
   }
   .row{
     width: 95%;
-    border:1px solid red;
     margin-top:5%
   }
   #lezioni .row > .left,
